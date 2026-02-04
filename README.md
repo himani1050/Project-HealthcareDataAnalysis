@@ -40,7 +40,19 @@ Tech Stack -
 - Business Insight Storytelling
 
 Project Architecture - 
-Raw Healthcare Data -> Data Cleaning & ETL (Python) -> MySQL Database Storage -> Feature Engineering Pipeline -> Exploratory Data Analysis -> Predictive Modeling -> Tableau Executive Dashboard
+Raw Healthcare Data
+        ↓
+Data Cleaning & ETL (Python)
+        ↓
+MySQL Database Storage
+        ↓
+Feature Engineering Pipeline
+        ↓
+Exploratory Data Analysis
+        ↓
+Predictive Modeling
+        ↓
+Tableau Executive Dashboard
 
 Predictive Modeling - 
 - Model Used: Logistic Regression
@@ -83,4 +95,5 @@ Data & Security Notes -
 - Public dataset only
 - Database credentials not stored in repository
 - Environment variables recommended for database access
+
 
