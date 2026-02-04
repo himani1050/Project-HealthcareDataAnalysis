@@ -11,7 +11,7 @@ To help healthcare organizations:
 - Identify high-risk patient segments for no-shows
 - Evaluate effectiveness of reminder systems
 - Optimize appointment scheduling workflows
-- - Support data-driven healthcare operations decisions
+- Support data-driven healthcare operations decisions
 
 Dataset - Public healthcare appointment dataset (~110K appointment records).
 
@@ -95,5 +95,6 @@ Data & Security Notes -
 - Public dataset only
 - Database credentials not stored in repository
 - Environment variables recommended for database access
+
 
 
